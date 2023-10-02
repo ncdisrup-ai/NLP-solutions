@@ -24,8 +24,10 @@ NLP_Solutions.py import Summarization.py and NER.py, and call the 2 functions (S
 ## 📖 Documentation / UI
 
 NLP Solutions UI
-![alt text](https://github.com/NLP-Solutions/Docs/Summary_IU.jpeg)
+![alt text]((https://github.com/ncdisrup-ai/NLP-solutions/blob/main/docs/NER_UI.jpg))
 https://github.com/ncdisrup-ai/NLP-solutions/tree/main
+https://github.com/ncdisrup-ai/NLP-solutions/blob/main/docs/NER_UI.jpg
+
 https://github.com/ncdisrup-ai/NLP-solutions
 
 
