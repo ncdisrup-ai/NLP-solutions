@@ -6,7 +6,8 @@ Summarization plus NER
 NLP solutions with Gradio UI, with 2 NLP functions
  - Summarization with specific transformer model DistilBart
  - NER: Named Entity Recognition, bert-base-NER, recognizes 4 types of entities (name, organization…..)
-Both use pipeline (from Huggingface) to "call" the models
+   
+Both use pipeline (from Huggingface) to "call" the models.
 
 ## 📚 Data
 
