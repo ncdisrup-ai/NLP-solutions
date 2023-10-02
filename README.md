@@ -23,12 +23,15 @@ NLP_Solutions.py import Summarization.py and NER.py, and call the 2 functions (S
 
 ## 📖 Documentation / UI
 
-NLP Solutions UI
-![alt text]((https://github.com/ncdisrup-ai/NLP-solutions/blob/main/docs/NER_UI.jpg))
-https://github.com/ncdisrup-ai/NLP-solutions/tree/main
-https://github.com/ncdisrup-ai/NLP-solutions/blob/main/docs/NER_UI.jpg
+🧮 **Summarizaton UI**: 
+<p align="center">
+<img src="docs/Summary_UI.jpg" width="900" > 
+</p>
 
-https://github.com/ncdisrup-ai/NLP-solutions
+🧮 **NER UI**: 
+<p align="center">
+<img src="docs/NER_UI.jpg" width="900" > 
+</p>
 
 
 Please see docs dir for full documentation.
