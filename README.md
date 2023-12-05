@@ -1,5 +1,5 @@
 # NLP solutions
-Summarization plus NER
+NLP solutions for Summarization and NER (Named Entity Recognition)
 
 ## 🤔 What is this?
 **Description:**  
